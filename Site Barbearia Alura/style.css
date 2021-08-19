@@ -1,0 +1,32 @@
+#banner { 
+    width: 100%;
+}
+
+p {
+    text-align: center;
+}
+
+.itens{
+    font-style: italic;
+}
+
+.principal {
+    padding: 30px;
+    background: gray;
+}
+
+.beneficios {
+    padding: 20px;
+    background: white;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagemBeneficios{
+    width: 50%;
+}
